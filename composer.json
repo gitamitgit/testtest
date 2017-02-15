@@ -8,7 +8,7 @@
         "AFL-3.0"
     ],
     "support": {
-        "email": "info@test.com",        
+        "email": "info@test.com"       
     },
     "require" : {
         "mandrill/mandrill": "1.0.*",
